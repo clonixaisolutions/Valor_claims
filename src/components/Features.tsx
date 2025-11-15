@@ -14,7 +14,7 @@ const features = [
   },
   {
     icon: Users,
-    title: "200+ Clients Served",
+    title: "500+ Clients Served",
     description: "Trusted by thousands of property owners",
   },
   {
