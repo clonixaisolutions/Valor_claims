@@ -8,7 +8,7 @@ const stats = [
     label: "Recovered for Clients",
   },
   {
-    value: "200+",
+    value: "500+",
     label: "Satisfied Clients",
   },
   {
