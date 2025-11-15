@@ -28,7 +28,7 @@ const faqs = [
   },
   {
     question: "Do I need to be present during the inspection?",
-    answer: "While it's helpful if you can be present, it's not always necessary. We can coordinate with you to schedule inspections at your convenience and keep you informed throughout the entire process.",
+    answer: "Yes, we strongly recommend that you be present during the inspection. Your presence ensures clear communication, allows you to understand the findings firsthand, and helps us address any questions or concerns in real time.",
   },
 ];
 
